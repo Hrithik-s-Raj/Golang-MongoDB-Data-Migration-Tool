@@ -36,7 +36,7 @@ targetDBName := "target_db"
 
 ## Author
 
-- **Your Name** - https://github.com/Hrithik-s-Raj
+- **Hrithik S Raj** - https://github.com/Hrithik-s-Raj
 
 ## License
 
